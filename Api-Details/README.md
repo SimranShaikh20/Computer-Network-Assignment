@@ -17,7 +17,7 @@ This script is useful for:
 
 ## 🔧 How to Run
 1. Ensure you have Python installed (3.x recommended).
-2. Copy and save the script as `socket_info.py`.
+2. Copy and save the script as `code.py`.
 3. Run the script using:
    ```sh
    python socket_info.py
