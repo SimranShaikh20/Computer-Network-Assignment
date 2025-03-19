@@ -20,7 +20,7 @@ This script is useful for:
 2. Copy and save the script as `code.py`.
 3. Run the script using:
    ```sh
-   python socket_info.py
+   python code.py
    ```
 
 ## ⚡ Where This is Used
