@@ -31,9 +31,6 @@ This script is useful for:
 ## 📜 License
 This project is open-source and available under the MIT License.
 
-## 🤝 Contributing
-Feel free to fork, modify, and submit a pull request to improve this script!
-
 ---
 🎯 *Happy Coding!* 😃
 
